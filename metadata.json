@@ -1,0 +1,6 @@
+{
+  "name": "智能成绩分析平台",
+  "description": "专为教师打造的智能成绩分析系统，支持成绩追踪、数据可视化、进退步分析与自动化教学建议。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
